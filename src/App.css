@@ -1,0 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:slnt,wght@-10..0,100..900&display=swap');
+
+.active {
+    @apply underline underline-offset-8 decoration-from-font text-orange-500 transition-all ease-in duration-300
+}
